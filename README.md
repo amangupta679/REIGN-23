@@ -7,4 +7,4 @@ The app would be easy to use and designed to be both fun and educational, provid
 
 This app would help to promote inclusivity and accessibility, providing deaf individuals with the ability to communicate with hearing individuals more easily. It would also be a valuable tool for individuals who are interested in learning sign language as a second language, providing a fun and interactive way to do so.
 
-Overall, a sign language detection app with games for learning sign language in English would be a beneficial addition to society, providing a means of communication and breaking down barriers between deaf and hearing individuals.
+Overall, a sign language detection app with games for learning sign language in English would be a beneficial addition to society, providing a means of communication and breaking down barriers between deaf and hearing individuals..
